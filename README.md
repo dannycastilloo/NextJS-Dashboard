@@ -1,3 +1,7 @@
+## Next.js Course
+
+![image](https://github.com/dannycastilloo/NextJS-Dashboard/assets/76531494/c99c1247-7867-4af8-85ef-5eaa337ffbaa)
+
 ## Learned Information
 - Project structure
 - Layouts and Pages
@@ -10,7 +14,3 @@
 - React Server Component
 - Fetch Data
 - Loading & Streaming
-
-## Next.js App Router Course - Starter
-
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
